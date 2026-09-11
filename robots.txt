@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://BrunoCMSiqueira.github.io/reference-p5uyj8/sitemap.xml
